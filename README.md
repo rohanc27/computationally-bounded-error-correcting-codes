@@ -23,6 +23,6 @@ This project surveys two recent papers that construct efficient error-detecting 
 
 ## Repository Contents
 
-- 📄 Technical survey paper
-- 📊 Presentation slides
-- 🖼️ Diagrams explaining the proposed constructions
+- 📄 **[Technical Paper](Computationally_Bounded_Error_Detection_and_Correction.pdf)**
+- 📊 **[Presentation Slides](Computationally_Bounded_EDAC_Presentation.pdf)**
+- 🖼️ **[Figures & Diagrams](images/)**
